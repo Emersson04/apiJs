@@ -8,4 +8,3 @@ export const conexion = createPool({
     port: 3306,
     database: 'videojuegos'
 })
-
